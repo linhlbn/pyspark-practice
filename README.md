@@ -1,5 +1,19 @@
-# pyspark-practice-note
+# Spark-note
 
+## 1. Why Spark?
+
+#### 1.1 Intro:
+- Simple, powerful, and fast computing system
+- Free and open-source software
+- Runs on Hadoop, Mesos, Kubernetes, standalone, or in the cloud
+- Compatible with various data sources like Amazon S3, Hadoop HDFS, and relational databases
+- Integrates with many data applications
+- Reads/writes in both row-based (e.g., Avro) and column-based (e.g., Parquet, ORC) data formats
+- Provides a rich and straightforward set of APIs for ETL processes
+
+#### 1.2 Further
+
+## 2. Notebook
 To find each user's favorite genre, we can follow these steps:
 
 1. Start with the original dataset that contains information about `user_id` and `genre`.
